@@ -1,0 +1,6 @@
+/******** Formating for Printing ******/
+
+#content, #feature, #masthead, #pagnav, #pagecell1, #pageName, #siteInfo {
+
+float: none; position: static;
+}
